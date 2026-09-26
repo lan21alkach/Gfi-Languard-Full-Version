@@ -240,4 +240,4 @@ This repository serves as the official landing page for GFI LANguard. The softwa
 **Get the most recent version of GFI LANguard today!**
 
 ---
-**Last updated:** 2026-09-26 14:03:40 UTC
+**Last updated:** 2026-09-26 18:16:56 UTC
